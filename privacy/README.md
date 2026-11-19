@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy · 개인정보처리방침
 
-[English](#english) · [한국어](#한국어) · [Support · 고객지원](../)
+[English](#english) · [한국어](#한국어) · [English support](../) · [한국어 고객지원](../ko/)
 
 ## English
 
