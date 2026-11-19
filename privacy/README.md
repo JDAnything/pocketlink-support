@@ -9,7 +9,9 @@ permalink: /privacy/
 
 ## English
 
-**Pre-release draft.** The operator's legal name, effective date, and final disclosures will be confirmed before publication.
+**Operator** — CHOI JAEYOUNG
+
+**Planned effective date** — November 19, 2026, subject to the public launch date.
 
 This policy describes how PocketLink for iPhone and iPad handles data, and what happens when you contact PocketLink support.
 
@@ -24,13 +26,17 @@ This policy describes how PocketLink for iPhone and iPad handles data, and what 
 
 Apple, Google, and GitHub process information for the features described above. Their processing may take place outside your country or region. You can learn about their handling and choices in their policies. [Apple Privacy Policy](https://www.apple.com/legal/privacy/), [Google Privacy Policy](https://policies.google.com/privacy), [AdMob data disclosure](https://developers.google.com/admob/ios/privacy/data-disclosure), [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
-Connection settings and layouts remain on your device until you remove them. You can remove saved PCs and layouts in the app, turn off clipboard or iCloud layout sync, and manage iCloud storage through Apple. Turning off sync stops future syncing from this installation. Apple and Google manage their own records under their policies. Support correspondence is kept as needed to resolve the request and meet applicable legal obligations.
+Connection settings and layouts remain on your device until you remove them. You can remove saved PCs and layouts in the app, turn off clipboard or iCloud layout sync, and manage iCloud storage through Apple. Turning off sync stops future syncing from this installation. Apple and Google manage their own records under their policies.
+
+We retain support emails and their attachments for 90 days after the request is closed, then permanently delete them from the support mailbox. If a law requires us to keep specific records for longer, we retain those records separately for the required period and delete them afterward.
 
 For privacy questions or requests to access, correct, delete, or restrict your information, email PocketLink support. Please describe the request without including passwords, PINs, or payment card details. [jjjjjjayda10@gmail.com](mailto:jjjjjjayda10@gmail.com)
 
 ## 한국어
 
-**출시 전 초안입니다.** 운영자 법적 명칭, 시행일, 최종 공개 내용을 확정한 뒤 게시합니다.
+**운영자** — CHOI JAEYOUNG
+
+**시행 예정일** — 2026년 11월 19일. 실제 앱 공개 일정에 따라 조정될 수 있습니다.
 
 이 방침은 iPhone·iPad용 PocketLink의 정보 처리와 고객지원 문의 처리에 적용됩니다.
 
@@ -45,6 +51,8 @@ For privacy questions or requests to access, correct, delete, or restrict your i
 
 Apple, Google, GitHub는 위 기능을 제공하는 과정에서 정보를 처리하며, 해당 처리는 이용자 국가 또는 지역 밖에서 이루어질 수 있습니다. 각 서비스의 처리 방식과 선택 사항은 해당 방침에서 확인할 수 있습니다. [Apple 개인정보 처리방침](https://www.apple.com/kr/legal/privacy/), [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko), [AdMob 데이터 공개](https://developers.google.com/admob/ios/privacy/data-disclosure?hl=ko), [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
-연결 설정과 배치는 사용자가 삭제할 때까지 기기에 보관됩니다. 앱에서 저장된 PC와 배치를 삭제하거나 클립보드 및 iCloud 배치 동기화를 끌 수 있습니다. 동기화를 끄면 해당 설치본에서 이후 동기화가 중단되며, iCloud 저장 공간은 Apple을 통해 관리할 수 있습니다. Apple과 Google이 처리하는 기록은 각 서비스의 방침을 따릅니다. 지원 문의는 요청 처리와 관련 법적 의무 이행에 필요한 기간 동안 보관합니다.
+연결 설정과 배치는 사용자가 삭제할 때까지 기기에 보관됩니다. 앱에서 저장된 PC와 배치를 삭제하거나 클립보드 및 iCloud 배치 동기화를 끌 수 있습니다. 동기화를 끄면 해당 설치본에서 이후 동기화가 중단되며, iCloud 저장 공간은 Apple을 통해 관리할 수 있습니다. Apple과 Google이 처리하는 기록은 각 서비스의 방침을 따릅니다.
+
+지원 이메일과 첨부 파일은 문의 종료 후 90일 동안 보관하고, 그 기간이 지나면 지원 메일함에서 영구 삭제합니다. 법령에 따라 특정 기록을 더 오래 보존해야 하는 경우에는 해당 기록을 정해진 기간 동안 별도로 보관한 뒤 파기합니다.
 
 개인정보 문의, 열람·정정·삭제·처리정지 요청은 PocketLink 고객지원에 이메일로 보내주세요. 비밀번호·PIN·카드 정보는 포함하지 말아 주세요. [jjjjjjayda10@gmail.com](mailto:jjjjjjayda10@gmail.com)

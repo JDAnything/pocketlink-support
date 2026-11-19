@@ -12,6 +12,19 @@ PocketLink lets you stream and control your PC from an iPhone or iPad.
 2. For local discovery, connect both devices to the same local network and allow PocketLink to access the local network in iOS Settings. If the PC is missing, use **Add PC** and enter its address. If you connect over a VPN, add its reachable VPN address manually.
 3. Select the PC in PocketLink and enter the displayed PIN in the host's PIN page. Once paired, choose Desktop or another app offered by the host.
 
+### Free and Pro
+
+| Feature | Free | Pro |
+| --- | --- | --- |
+| Remote PC control | Touch, keyboard, mouse, and gamepad | Same controls |
+| Streaming | Up to 1080p and 60 fps | Higher resolutions and frame rates, HDR, and 4:4:4 chroma |
+| On-screen gamepad layout | Move and resize the default controls | Also add controls and customize advanced button actions |
+| Macros | Unavailable | Available |
+| Picture in Picture and remote drawing | Unavailable | Available |
+| Ads | Included | Removed |
+
+Video options depend on the device, host, and selected codec. Pro is a one-time in-app purchase.
+
 ### Get help
 
 - **Connection or pairing.** Check that the host is running, the address is correct, and both devices can reach each other. If pairing fails after you reinstall PocketLink, try pairing again. If the host reports that another app is running, resume it or end it using the available session options before starting a different app.
@@ -28,6 +41,19 @@ PocketLink는 iPhone이나 iPad에서 PC 화면을 스트리밍하고 원격으�
 1. PC에서 Sunshine 또는 Vibeshine 등 호환되는 호스트를 실행합니다.
 2. PC를 자동으로 찾으려면 두 기기를 같은 로컬 네트워크에 연결하고 iOS 설정에서 PocketLink의 로컬 네트워크 접근을 허용합니다. PC가 목록에 없으면 **PC 추가**에서 주소를 입력합니다. VPN으로 연결할 때는 접근 가능한 VPN 주소를 직접 추가합니다.
 3. PocketLink에서 PC를 선택하고 표시된 PIN을 호스트의 PIN 페이지에 입력합니다. 페어링이 끝나면 Desktop 또는 호스트에서 제공하는 앱을 실행합니다.
+
+### 무료와 Pro 비교
+
+| 기능 | 무료 | Pro |
+| --- | --- | --- |
+| 원격 PC 제어 | 터치, 키보드, 마우스, 게임패드 | 동일 |
+| 스트리밍 | 최대 1080p·60fps | 더 높은 해상도·프레임 속도, HDR, 4:4:4 색차 |
+| 화면 게임패드 배치 | 기본 버튼 위치·크기 조절 | 버튼 추가와 고급 버튼 동작 설정도 가능 |
+| 매크로 | 미지원 | 지원 |
+| 화면 속 화면(PiP)과 원격 드로잉 | 미지원 | 지원 |
+| 광고 | 표시 | 제거 |
+
+영상 옵션은 기기, 호스트, 선택한 코덱에 따라 달라집니다. Pro는 일회성 인앱 구매입니다.
 
 ### 문제 해결 및 문의
 
