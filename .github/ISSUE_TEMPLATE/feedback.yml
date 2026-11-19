@@ -1,0 +1,37 @@
+name: Bug report or suggestion · 버그 제보 또는 기능 제안
+description: Share a reproducible issue or suggest an improvement · 재현 가능한 문제를 제보하거나 개선을 제안하세요.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Do not include PC addresses, device names, PINs, credentials, or personal information.
+        이 글은 공개됩니다. PC 주소, 기기 이름, PIN, 인증 정보 또는 개인정보를 올리지 마세요.
+        For private support, email jjjjjjayda10@gmail.com. 비공개 문의는 이메일로 보내주세요.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category · 유형
+      options:
+        - Bug report · 버그 제보
+        - Feature suggestion · 기능 제안
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details · 상세 내용
+      description: For a bug, list the steps, expected result, and actual result. For a suggestion, describe what you want to do and where you got stuck. · 버그라면 재현 단계, 기대 결과, 실제 결과를 적어주세요. 제안이라면 하고 싶은 작업과 불편했던 점을 알려주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment · 사용 환경
+      description: If relevant, include the PocketLink version, iPhone or iPad model, OS version, host software and version, and whether you used LAN or VPN. · 관련이 있다면 PocketLink 버전, 기기 모델, OS 버전, 호스트 프로그램 및 버전, LAN 또는 VPN 사용 여부를 적어주세요.
+  - type: checkboxes
+    id: public-issue
+    attributes:
+      label: Public issue · 공개 게시물
+      options:
+        - label: I removed private details from the report and any attachments. · 본문과 첨부 파일에서 비공개 정보를 제거했습니다.
+          required: true
